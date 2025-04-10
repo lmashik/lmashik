@@ -1,6 +1,5 @@
 #### Hey! I'm Maria, a beginner backend python developer. 
 
-- 🔭 I’m currently working on my personal project [wishlist](https://github.com/lmashik/wishlist) to practice using FastAPI.
 - 📫 How to reach me: tg @mashik23, email mashik_p@mail.ru.
 
 <!--
